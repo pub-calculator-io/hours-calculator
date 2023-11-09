@@ -13,6 +13,8 @@ This online hour calculator is ideal for determining hours worked so that employ
 
 This online hour calculator is ideal for determining hours worked so that employers can determine pay accurately.
 
+[Hours Calculator Homepage](https://www.calculator.io/hours-calculator/ "Hours Calculator Homepage")
+
 __Shortcode__
 
 Use the Hours Calculator shortcode:

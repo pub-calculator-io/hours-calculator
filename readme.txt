@@ -1,6 +1,6 @@
 === Hours Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: hours calculator, calculate hours, time calculator, calculate work hours, working hours calculator, hours and minutes calculator, time duration calculator, calculate hours online, time tracker, hours calculator online
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0

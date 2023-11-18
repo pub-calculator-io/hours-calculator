@@ -1,4 +1,4 @@
-# Hours Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Hours Calculator Widget for WordPress
 
 This online hour calculator is ideal for determining hours worked so that employers can determine pay accurately.
 

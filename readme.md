@@ -7,7 +7,7 @@ This online hour calculator is ideal for determining hours worked so that employ
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/hours-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /hours-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Hours Calculator](https://www.calculator.io/hours-calculator/ "Hours Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 

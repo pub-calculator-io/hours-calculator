@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Hours Calculator by www.calculator.io
+Plugin Name: CI Hours calculator
 Plugin URI: https://www.calculator.io/hours-calculator/
 Description: This online hour calculator is ideal for determining hours worked so that employers can determine pay accurately.
 Version: 1.0.0

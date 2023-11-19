@@ -1,4 +1,4 @@
-=== Hours Calculator by www.calculator.io ===
+=== CI Hours calculator ===
 Contributors: calculatorio
 Tags: hours calculator, calculate hours, time calculator, calculate work hours, working hours calculator, hours and minutes calculator, time duration calculator, calculate hours online, time tracker, hours calculator online
 Requires at least: 5.0

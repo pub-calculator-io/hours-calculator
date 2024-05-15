@@ -67,13 +67,15 @@
                 
                 
                 
-                	<button class="button button--primary ml-auto" onclick="calculate(this)">Calculate</button>
+                	<button class="button button--primary ml-auto" onclick="calculate(this); animateElements();" data-action="calculate" id="action-button">Calculate</button>
                 </div>
                 
                 
                 
                 
-                	<script type="text/javascript" src="./assets/js/calculator.js"></script>
+                
+                
+                	<script type="text/javascript" src="./assets/js/calculator.js" defer></script>
             </div>
         </div>
     </div>
@@ -88,14 +90,13 @@
         </svg>
         		<p class="calculator-error__title">There was an error with your calculation.</p>
         	</div>
-        	<div class="col" id="error-list">
-        	</div>
+        	<div class="col" id="error-list"></div>
         </div>        <span id="calculator_result"><div class="calculator-result col">
 	<p class="table-cell table-cell--dark table-cell--only-title">Hours</p>
 	<div class="table-cell table-cell--only row">
-		<div class="col result-age__text">
+		<div class="col result-age__text animate">
 			<p class="result-text" id="result">9 hours 12 minutes</p>
-			<p class="result-text" id="result-hours-minutes">or 9:12</p>
+			<p class="result-text" id="result-hours-minutes">or 9:12:00</p>
 			<p class="result-text" id="result-in-hours">or 9.2 hours</p>
 			<p class="result-text" id="result-in-minutes">or 552 minutes</p>
 		</div>

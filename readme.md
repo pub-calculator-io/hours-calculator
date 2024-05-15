@@ -3,7 +3,6 @@
 This online hour calculator is ideal for determining hours worked so that employers can determine pay accurately.
 
 ![Hours Calculator Input Form](/assets/images/screenshot-1.png "Hours Calculator Input Form")
-![Hours Calculator Calculation Results](/assets/images/screenshot-2.png "Hours Calculator Calculation Results")
 
 ## Installation
 
